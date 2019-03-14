@@ -15,6 +15,6 @@
 
 这里再分享个一美元优惠码：bylog
 
-![(域名购买、转入等都可以用，一个人只能用一次)](https://raw.githubusercontent.com/bylog/bylog.github.io/master/img/namesilo-coupon.png)
+![(域名购买、转入等都可以用，一个人只能用一次)](https://raw.githubusercontent.com/bylog/bylog.github.io/master/img/namesilo-coupon.jpg)
 
 最后，需要购买主机空间的话，仍然推荐用国外的，比如[hawk host](https://my.hawkhost.com/aff.php?aff=12414)(30天内退款保证)，[这里](https://tophosting.github.io/)了解更多好用的国外主机
