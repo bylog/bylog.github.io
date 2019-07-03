@@ -14,7 +14,7 @@
 *   ...，其它的好处，反正就是别的域名注册商加钱才提供的，namesilo一个域名一年一律只收一次钱~注册费或续费
 
 这里再分享个一美元优惠码：bylog
-![namesilo域名注册优惠码](https://raw.githubusercontent.com/bylog/bylog.github.io/master/img/namesilo-coupon.jpg "域名购买、转入等都可以用，一个人只能用一次")
+![namesilo域名注册优惠码](https://raw.githubusercontent.com/bylog/bylog.github.io/master/img/namesilo-coupon.jpg "namesilo怎么样、namesilo教程、namesilo优惠码-域名购买、转入等都可以用，一个人只能用一次")
 
 /
 
