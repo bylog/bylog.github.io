@@ -2,7 +2,7 @@
 
 首先，一个好的域名是很让人心愉的。域名平台很重要，要注册域名的话，不 要 用 免费的和国/内的，不多解释。
 
-[namesilo](https://www.namesilo.com/?rid=adf2827hj "域名注册推荐")是一个非常好的国外域名注册平台，用户评价很高，成立于2009年，位于美国亚利桑那州的凤凰城，其提供.com, .net, .org, .xyz, .io, .blog等众多不同后缀类型的域名注册服务，还可以用支付宝购买，总的来说，便宜 简单 快速 安全 **朴素**
+[namesilo](https://www.namesilo.com/?rid=adf2827hj "域名注册推荐")是一个非常好的专业的国外域名注册平台，用户评价很高，成立于2009年，位于美国亚利桑那州的凤凰城，其提供.com, .net, .org, .xyz, .io, .blog等众多不同后缀类型的域名注册服务，还可以用支付宝购买，总的来说，便宜 简单 快速 安全 **朴素**，购买域名非常建议在namesilo特别购买(是的，不建议在主机服务商那里买域名)
 
 简单说一下namesilo的好在哪里：
 
@@ -18,4 +18,4 @@
 
 /
 
-最后，需要购买主机空间的话，仍然推荐用国外的，比如[hawk host](https://my.hawkhost.com/aff.php?aff=12414)(30天内退款保证)，[这里](https://tophosting.github.io/)了解更多好用的国外主机
+最后，需要购买主机空间的话，仍然推荐用国外的，比如[hawk host](https://my.hawkhost.com/aff.php?aff=12414)(30天内退款保证)，[这里](https://bylog.github.io/hosting.html)了解更多好用的国外主机
