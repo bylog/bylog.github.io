@@ -3,7 +3,7 @@
 多了没用，好用的推荐一个就行了
 ### 同域名一样，(网站)主机不推荐用国内的，直接用国外的
 
-[**Siteground**](https://www.siteground.com/index.htm?afcode=d374ff711fd59832e23687367eb84f3c)，是wordpress org 官方推荐之一，被中国用户评价为“是最好的海外主机”，客服超级好，shared wordpress hosting 30天内可以退款，很好用，选这个就行了，只是付款方式对于国内用户有点不方便，目前主要接受mastercard/visa等国际信用卡，可以paypal不过要在付款的时候同客服沟通说明。支持wordpress一键快速安装，并提供免费的SSL证书；支持7天*24小时在线客服，有啥问题的话可以随时联系客服获得及时的帮助和支持
+**[Siteground](https://www.siteground.com/go/wpzhuji)**，是wordpress org 官方推荐之一，估计花了不少广告费，被中国用户评价为“是最好的海外主机”，shared wordpress hosting 30天内可以退款，很好用，选这个就行了，只是付款方式对于国内用户有点不方便，目前主要接受mastercard/visa等国际信用卡，可以paypal不过要在付款的时候同客服沟通说明。支持wordpress一键快速安装，并提供免费的SSL证书；支持7天*24小时在线客服，客服超级好，有啥问题的话可以随时联系客服获得及时的帮助和支持
 
 怎么用PayPal购买Siteground的主机？
 
