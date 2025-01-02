@@ -21,4 +21,4 @@ namesilo的com域名涨价了，由于上游的注册机构提高了.com的注�
 
 /
 
-最后，需要购买主机空间的话，仍然推荐用国外的，比如[hawk host](https://my.hawkhost.com/aff.php?aff=12414)(30天内退款保证)，[这里](https://bylog.github.io/hosting.html)了解更多好用的国外主机
+最后，需要购买主机空间的话，仍然推荐用国外的，比如[Siteground](https://www.siteground.com/index.htm?afcode=d374ff711fd59832e23687367eb84f3c)(wordpress主机支持30天内退款)，[这里](https://bylog.github.io/hosting.html)了解更多
